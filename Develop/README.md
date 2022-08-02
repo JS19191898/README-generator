@@ -1,6 +1,6 @@
 # README-generator
 
-  This app dynamically builds README files according to a specific, preset format. 
+  It generates a preset README file for users to dynamically fill in the blanks.
 
   ## Table of Contents
 
@@ -15,19 +15,19 @@
 
   ## Installation
 
-  Run node index in the terminal to get started!
+  Run node index on your terminal, then follow the on-screen prompts!
 
   ## Usage
 
-  This app is useful for any developer or company looking to have a quick and consistent means of getting README files up and running!
+  For users (e.g. companies, developers, etc.) to be able to quickly put out neat and consistent README files for their projects.
 
   ## Contribution
 
-  Just myself!
+  No, just myself!
 
   ## Test
 
-  First, run node index in the terminal. Then, make sure to input the correct info, then commit your changes to Github!
+  Run in the terminal, see above!
 
   ## License
 
